@@ -1,0 +1,10 @@
+{
+  "clangd.path": "clangd",
+  "clangd.arguments": ["--background-index", "--clang-tidy", "--completion-style=detailed"],
+  "suggest.autoTrigger": "always",
+  "diagnostic.virtualText": true,
+  "diagnostic.virtualTextCurrentLineOnly": false,
+  "diagnostic.virtualTextPrefix": "❌ ",
+  "diagnostic.virtualTextFormat": "[{severity}] {message}"
+}
+
