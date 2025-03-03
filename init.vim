@@ -1,4 +1,4 @@
-"Bek Brace @ 30.11.2022
+
 :set relativenumber
 :set number
 :set autoindent
